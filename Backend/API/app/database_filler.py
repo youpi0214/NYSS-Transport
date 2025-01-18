@@ -25,7 +25,7 @@ last_names = [
     "Cook", "Morgan", "Bell", "Murphy", "Bailey",
     "Rivera", "Cooper", "Cox", "Howard", "Ward",
     "Torres", "Peterson", "Gray", "Ramirez", "James",
-    "Watson", "Brooks", "Bennett", "Gray", "James"
+    "Watson", "Brooks", "Bennett", "Gray", "James", "Jason"
 ]
 
 companies = ["RTC", "STLevis", "STM", "RTL"]
